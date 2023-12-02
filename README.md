@@ -8,4 +8,5 @@ G1 Z70 ; Move the print head up by 10 mm relative to the current position
 M25 ; Pause the print
 G1 Z-70 ; Move the print head down by 10 mm relative to the current position
 G90 ; Set back to absolute positioning mode
+M83; to not set Extruder to absolute
 ```
