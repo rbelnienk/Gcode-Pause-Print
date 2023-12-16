@@ -1,5 +1,8 @@
 # Gcode-Pause-Print
-Gcode to pause print and lift print head
+This is Gcode that i use to interrupt the print with PrusaSlicer. 
+It will lift the head bei 70mm in Z. So you can easily do filament color changes during print. 
+
+Works with Octroprint & Ender 3 V2 (Standard Firmware)
 
 
 ```
